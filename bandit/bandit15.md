@@ -22,7 +22,7 @@ Recognizing the SSL/TLS requirement, I turned to `openssl`'s `s_client` subcomma
     I connected using:
 
     ```
-    openssl s_client localhost:31046
+    openssl s_client localhost:30001
     ```
 
     After some initial SSL handshake output, the terminal became interactive.
